@@ -83,3 +83,4 @@
 <div style="text-align: justify">From this challenge, I learned that sometimes clues are quite obvious and not subliminal at the first place. If I had payed attention to what kinds of services the vintage car is used for in Prague then I probably would've completed the challenge way sooner and saved me a good hour of my time.</div>
 
 ![The Thinker](additional-files/The-Thinker.jpg)
+![Meme](additional-files/Hidden-Marker-Meme.jpg)
